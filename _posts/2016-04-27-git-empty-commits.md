@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Empty commits and what you can use them for
+title: Git empty commits and what you can use them for
 category: Technical Notes
 ---
 Why would anyone push empty commits on purpose?
