@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git empty commits and what you can use them for
-category: Technical Notes
+category: Terequireredchnical Notes
 ---
 Why would anyone push empty commits on purpose?
 
