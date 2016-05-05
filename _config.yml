@@ -18,8 +18,8 @@ kramdown:
   enable_coderay: false
 
 # Setup
-title:               'totally_winning'
+title:               'weirdeye.org'
 tagline:             ''
-description:         'Jakub Naliwajek: a developer, a runner and a nerd – and this is my archive.'
+description:         'Hub for the Weirdeyes empire'
 url:                 https://totallywinning.com
 baseurl:             ''
