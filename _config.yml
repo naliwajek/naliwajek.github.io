@@ -1,11 +1,5 @@
-# Built with Jekyll 2.5.3
-#
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink: ':title'
 
-# Markdown specs
 markdown: kramdown
 
 kramdown:
@@ -18,8 +12,8 @@ kramdown:
   enable_coderay: false
 
 # Setup
-title:               'totallywinning.com'
+title:               'naliwajek'
 tagline:             ''
-description:         'Hub for the Weirdeyes empire'
-url:                 https://totallywinning.com
+description:         'homepage of Jakub Naliwajek'
+url:                 http://naliwajek.com
 baseurl:             ''

@@ -99,6 +99,13 @@ hr {
 }
 
 
+/* Subhead styles */
+
+.subhead {
+	text-align: center;
+        margin-top: 11px;
+}
+
 
 /* Masthead styles */
 
