@@ -72,8 +72,6 @@ And so we have it. We extend with our new module:
 * `ActiveAdmin::Views::IndexAsTable` for a web page
 * `ActiveAdmin::CSVBuilder` for CSV formatter
 
-This is pure ActiveAdmin's magic.
-
 We still can include logic in those shared columns. For example, filter
 what columns get displayed by a class:
 
