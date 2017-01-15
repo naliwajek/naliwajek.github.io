@@ -6,7 +6,7 @@ category: Technical Notes
 With [conda](http://conda.pydata.org/docs/intro.html), which is a package, dependency and environment manager for any language - but I'm using it for Python, you can create entire environments from a configuration file, like this:
 
 ~~~ shell
-conda create env -f <path_to_configuration_file>
+conda env create -f <path_to_configuration_file>
 ~~~
 
 And your example configuration may look like this:
